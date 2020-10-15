@@ -1,0 +1,135 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<title>株式会社 堀田ハガネ</title>
+<link rel="stylesheet" href="/common/css/import.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="css/hoge.css" type="text/css" media="screen,print">
+<script type="text/javascript" src="/common/js/common.js"></script>
+</head>
+<body>
+<div id="TOP">
+<div id="HEADER">
+<div class="titleArea">
+<p class="logo tChip"><a href="/">HOTTA HAGANE CO., LTD</a></p>
+<!-- /titleArea --></div>
+
+
+
+
+<div id="gNavi">
+<ul>
+<li id="gNaviProduct">
+<dl>
+<dt class="tChip">製品情報</dt>
+<dd>
+<ul class="tChip nthChild">
+<li><a href="#"><span>SNCM鋼【肌焼鋼】</span></a></li>
+<li><a href="#"><span>SNCM鋼【強靭鋼】</span></a></li>
+<li><a href="#"><span>SNC鋼 丸棒</span></a></li>
+<li><a href="#"><span>SCM鋼 丸棒</span></a></li>
+<li><a href="#"><span>SNB鋼 丸棒</span></a></li>
+<li><a href="#"><span>デンスバー</span></a></li>
+<li><a href="#"><span>ステンレス鋼</span></a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li id="gNaviCorporate">
+<dl>
+<dt class="tChip">企業情報</dt>
+<dd>
+<ul class="tChip nthChild">
+<li><a href="#"><span>沿革</span></a></li>
+<li><a href="#"><span>概要</span></a></li>
+<li><a href="#"><span>役員</span></a></li>
+<li><a href="#"><span>設備</span></a></li>
+</ul>
+</dd>
+</dl>
+</li>
+
+<li id="gNaviTopics" class="tChip"><a href="#">TOPICS</a></li>
+<li id="gNaviRecruit" class="tChip"><a href="#">リクルート</a></li>
+<li id="gNaviNetwork" class="tChip"><a href="#">ネットワーク</a></li>
+</ul>
+<!-- /gNavi --></div>
+<!-- /HEADER --></div>
+
+
+
+
+
+<div id="BODY">
+<!-- /BODY --></div>
+
+
+
+
+
+<div id="FOOTER">
+<div class="linkArea">
+<ul class="footNavi">
+<li><a href="#">堀田ハガネトップ</a></li>
+<li><a href="#">TOPICS</a></li>
+<li><a href="#">リクルート</a></li>
+<li><a href="#">お問い合わせ</a></li>
+<li><a href="#">ネットワーク</a></li>
+</ul>
+
+<dl class="product">
+<dt>製品情報</dt>
+<dd>
+<ul>
+<li><a href="#">SNCM鋼【肌焼鋼】</a></li>
+<li><a href="#">SNCM鋼【強靭鋼】</a></li>
+<li><a href="#">SNC鋼 丸棒</a></li>
+<li><a href="#">SCM鋼 丸棒</a></li>
+<li><a href="#">SNB鋼 丸棒</a></li>
+<li><a href="#">デンスバー</a></li>
+<li><a href="#">ステンレス鋼</a></li>
+</ul>
+</dd>
+</dl>
+
+<dl class="corporate">
+<dt>企業情報</dt>
+<dd>
+<ul>
+<li><a href="#">沿革</a></li>
+<li><a href="#">概要</a></li>
+<li><a href="#">役員</a></li>
+<li><a href="#">設備</a></li>
+</ul>
+</dd>
+</dl>
+<!-- /linkArea --></div>
+
+
+
+
+<div class="addressArea">
+<address class="noSpace hCard">
+<p class="fn">株式会社　堀田ハガネ</p>
+<p class="adr">〒592-8331　大阪府堺市西区築港新町3丁目19-2</p>
+<p class="tel">TEL 072-244-0011</p>
+<p class="fax">FAX 072-244-0330</p>
+</address>
+<!-- /addressArea --></div>
+
+
+
+
+<div class="copyArea tChip">
+<p class="copyright">Copyright &copy; 2011 HOTTA HAGANE CO., LTD. ALL RIGHTS RESERVED.</p>
+<!-- /copyArea --></div>
+<!-- /FOOTER --></div>
+<!-- /TOP --></div>
+</body>
+</html>

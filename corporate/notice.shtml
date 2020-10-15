@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="description" content="時代のニーズに応える含ニッケル鋼のスペシャリスト、堀田ハガネ。調達から加工、流通まで「まかせて良かった」の笑顔のために、価値ある鋼をお届けいたします。">
+<meta name="keywords" content="SNC415,SNC631,SNC815,SNCM220H,SNCM420H,SNCM220,SNCM420,SNCM439,SNCM447,SNCM616,SNCM630,SNCM815,特殊鋼,ステンレス鋼,堀田ハガネ">
+<title>概要 ｜ 企業情報 | 株式会社 堀田ハガネ</title>
+<link rel="stylesheet" href="/common/css/import.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="/common/css/mediaboxAdvBlack21.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="css/corporate.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="css/notice.css" type="text/css" media="screen,print">
+<script type="text/javascript" src="/common/js/mootools-1.2.5-core-yc.js"></script>
+<script type="text/javascript" src="/common/js/mediaboxAdv-1.3.4b.js"></script>
+<script type="text/javascript" src="/common/js/common.js"></script>
+</head>
+<body>
+<div id="TOP">
+<!--#include virtual="/common/ssi/mod_header.ssi" -->
+<div id="BODY">
+<div id="MAIN">
+<div class="titleArea">
+<h1><img src="img/notice/title.jpg" width="649" height="59" alt="概要　時代のニーズ、変化の兆しを敏感に受け止め、ロングセラーの継続とさらなる改良を目指します。"></h1>
+<!-- /titleArea --></div>
+
+
+
+
+<div class="detailArea">
+
+	<h4 class="ttl_style01">公告事項</h4>
+	<table class="tbl_style01 mb30" summary="公告事項">
+	<tbody>
+	  <tr>
+        <td><a href="/corporate/pdf/board members.pdf" target="_blank" class="iconPdf">【2019年5月24日】62期取締役選任の件</a></td>
+      </tr>
+      <tr>
+        <td><a href="/corporate/pdf/teikan.pdf" target="_blank" class="iconPdf">【2018年5月28日】定款変更の内容</a></td>
+      </tr>
+      <tr>
+        <td><a href="/corporate/pdf/teikan2.pdf" target="_blank" class="iconPdf">【2018年5月11日】定款の一部変更に関するお知らせ</a></td>
+      </tr>
+    </tbody>
+	</table>
+  <h4 class="ttl_style01">決算公告</h4>
+  <table class="tbl_style01 mb30" summary="決算公告">
+	  <tbody>
+	　 <tr>
+        <td><a href="/corporate/pdf/h32.pdf" target="_blank" class="iconPdf">【2020年3月31日】貸借対照表</a></td>
+      </tr>
+      <tr>
+	  <tr>
+        <td><a href="/corporate/pdf/h31.pdf" target="_blank" class="iconPdf">【2019年3月31日】貸借対照表</a></td>
+      </tr>
+      <tr>
+        <td><a href="/corporate/pdf/h30.pdf" target="_blank" class="iconPdf">【2018年3月31日】賃借対照表</a></td>
+      </tr>
+      <tr>
+        <td><a href="/corporate/pdf/h29.pdf" target="_blank" class="iconPdf">【2017年3月31日】賃借対照表</a></td>
+      </tr>
+      <tr>
+        <td><a href="/corporate/pdf/h28.pdf" target="_blank" class="iconPdf">【2016年3月31日】賃借対照表</a></td>
+      </tr>
+      <tr>
+        <td><a href="/corporate/pdf/h27.pdf" target="_blank" class="iconPdf">【2015年3月31日】賃借対照表</a></td>
+      </tr>
+      <tr>
+        <td><a href="/corporate/pdf/h26.pdf" target="_blank" class="iconPdf">【2014年3月31日】賃借対照表</a></td>
+      </tr>
+    </tbody>
+  </table>
+	<div class="pdfBox">
+		<div class="fltL">
+			<a href="http://get.adobe.com/jp/reader/" target="_blank"><img src="/common/img/Get_Adobe_Acrobat_Reader_DC_web_button_158x39.fw.png" alt="Get ADOBE READER" width="158" height="39"></a>
+		</div>
+		<p><a href="http://get.adobe.com/jp/reader/" target="_blank">PDF書類をご覧になる場合は、Adobe Reader 5.0以降が必要です。お持ちでない方はこちらよりダウンロードしてください。</a></p>
+	</div>
+
+  <p class="pageTop"><span><a href="#TOP">ページトップへ戻る</a></span></p>
+<!-- /detailArea --></div>
+<!-- /MAIN --></div>
+<!--#include virtual="/corporate/ssi/mod_side.ssi" -->
+<!-- /BODY --></div>
+<!--#include virtual="/common/ssi/mod_footer.ssi" -->
+<!-- /TOP --></div>
+</body>
+</html>

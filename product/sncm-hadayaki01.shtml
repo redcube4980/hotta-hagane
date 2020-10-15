@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="description" content="時代のニーズに応える含ニッケル鋼のスペシャリスト、堀田ハガネ。調達から加工、流通まで「まかせて良かった」の笑顔のために、価値ある鋼をお届けいたします。">
+<meta name="keywords" content="SNC415,SNC631,SNC815,SNCM220H,SNCM420H,SNCM220,SNCM420,SNCM439,SNCM447,SNCM616,SNCM630,SNCM815,特殊鋼,ステンレス鋼,堀田ハガネ">
+<title>SNCM鋼 【肌焼鋼】 1 | 製品情報 | 株式会社 堀田ハガネ</title>
+<link rel="stylesheet" href="/common/css/import.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="css/product.css" type="text/css" media="screen,print">
+<script type="text/javascript" src="/common/js/common.js"></script>
+</head>
+<body>
+<div id="TOP">
+<!--#include virtual="/common/ssi/mod_header.ssi" -->
+<div id="BODY">
+<div id="MAIN">
+<div class="titleArea">
+<h1><img src="img/sncm-hadayaki/title_01.jpg" width="433" height="59" alt="SNCM鋼 【肌焼鋼】7種類のSNCM鋼　他の追随を許さない充実のラインナップ！"></h1>
+
+<!-- /titleArea --></div>
+
+
+
+
+<div class="detailArea">
+<div class="followingSec">
+<!-- /followingSec --></div>
+
+<div class="pdfSec">
+<ul>
+<li><a href="01_sncm220h.shtml">SNCM220H<br><img src="img/sncm-hadayaki/pic_color_sncm220h.png" alt="SNCM220H" width="50" height="50"></a></li>
+<li><a href="01_sncm420h.shtml">SNCM420H<br><img src="img/sncm-hadayaki/pic_color_sncm420h.png" alt="SNCM420H" width="50" height="50"></a></li>
+<li><a href="01_sncm616.shtml">SNCM616<br><img src="img/sncm-hadayaki/pic_color_sncm616.png" alt="SNCM616" width="50" height="50"></a></li>
+<li><a href="01_sncm815.shtml">SNCM815<br><img src="img/sncm-hadayaki/pic_color_sncm815.png" alt="SNCM815" width="50" height="50"></a></li>
+</ul>
+<!-- /pdfSec --></div>
+
+
+<!-- /detailArea --></div>
+<!-- /MAIN --></div>
+<!--#include virtual="/product/ssi/mod_menu.ssi" -->
+<!-- /BODY --></div>
+<!--#include virtual="/common/ssi/mod_footer.ssi" -->
+<!-- /TOP --></div>
+</body>
+</html>

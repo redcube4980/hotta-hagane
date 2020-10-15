@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="description" content="時代のニーズに応える含ニッケル鋼のスペシャリスト、堀田ハガネ。調達から加工、流通まで「まかせて良かった」の笑顔のために、価値ある鋼をお届けいたします。">
+<meta name="keywords" content="SNC415,SNC631,SNC815,SNCM220H,SNCM420H,SNCM220,SNCM420,SNCM439,SNCM447,SNCM616,SNCM630,SNCM815,特殊鋼,ステンレス鋼,堀田ハガネ">
+<title>SNCM鋼 【強靭鋼】 | 製品情報 | 株式会社 堀田ハガネ</title>
+<link rel="stylesheet" href="/common/css/import.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="css/product.css" type="text/css" media="screen,print">
+<script type="text/javascript" src="/common/js/common.js"></script>
+</head>
+<body>
+<div id="TOP">
+<!--#include virtual="/common/ssi/mod_header.ssi" -->
+<div id="BODY">
+<div id="MAIN">
+<div class="titleArea">
+<h1><img src="img/sncm-strong/title.jpg" width="433" height="59" alt="SNCM鋼 【強靭鋼】　7種類のSNCM鋼　他の追随を許さない充実のラインナップ！"></h1>
+
+<!-- /titleArea --></div>
+
+
+
+
+<div class="detailArea">
+
+<div class="pdfSec">
+<ul>
+<li><a href="02_sncm439.shtml">SNCM439<br><img src="img/sncm-strong/pic_color_sncm439.png" alt="SNCM439" width="50" height="50"></a></li>
+<li><a href="02_sncm447.shtml">SNCM447<br><img src="img/sncm-strong/pic_color_sncm447.png" alt="SNCM447" width="50" height="50"></a></li>
+<li><a href="02_sncm630.shtml">SNCM630<br><img src="img/sncm-strong/pic_color_sncm630.png" alt="SNCM630" width="50" height="50"></a></li>
+</ul>
+<!-- /pdfSec --></div>
+
+
+<!-- /detailArea --></div>
+<!-- /MAIN --></div>
+<!--#include virtual="/product/ssi/mod_menu.ssi" -->
+<!-- /BODY --></div>
+<!--#include virtual="/common/ssi/mod_footer.ssi" -->
+<!-- /TOP --></div>
+</body>
+</html>

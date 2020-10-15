@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta http-equiv="content-script-type" content="text/javascript">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="description" content="時代のニーズに応える含ニッケル鋼のスペシャリスト、堀田ハガネ。調達から加工、流通まで「まかせて良かった」の笑顔のために、価値ある鋼をお届けいたします。">
+<meta name="keywords" content="SNC415,SNC631,SNC815,SNCM220H,SNCM420H,SNCM220,SNCM420,SNCM439,SNCM447,SNCM616,SNCM630,SNCM815,特殊鋼,ステンレス鋼,堀田ハガネ">
+<title>設備 ｜ 企業情報 | 株式会社 堀田ハガネ</title>
+<link rel="stylesheet" href="/common/css/import.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="css/corporate.css" type="text/css" media="screen,print">
+<link rel="stylesheet" href="css/facilities.css" type="text/css" media="screen,print">
+<script type="text/javascript" src="/common/js/common.js"></script>
+<script type="text/javascript" src="js/map_select.js"></script>
+</head>
+<body>
+<div id="TOP">
+<!--#include virtual="/common/ssi/mod_header.ssi" -->
+<div id="BODY">
+<div id="MAIN">
+<div class="titleArea">
+<h1><img src="img/facilities/title.jpg" width="602" height="59" alt="設備　小ロット・切断・熱処理・鋳造・部品加工など、スピードと徹底した品質管理で対応します。"></h1>
+<!-- /titleArea --></div>
+
+
+
+
+<div class="detailArea">
+<p class="figure"><img id="mapFacilitiesImage" src="img/facilities/pic_facilities.gif" alt="" width="548" height="367" usemap="#mapFacilities">
+<map name="mapFacilities" id="mapFacilities">
+<area class="tChip" shape="poly" coords="3,5,92,4,91,63,4,64" href="/product/stainless.shtml" alt="ステンレス鋼在庫エリア" onmouseover="mapSelect.over('stainless');" onmouseout="mapSelect.out('stainless');">
+<area class="tChip" shape="poly" coords="152,140,151,60,232,60,233,2,94,2,95,67,4,67,5,140" href="/product/scm-marubou.shtml" alt="SCM鋼在庫エリア" onmouseover="mapSelect.over('scm');" onmouseout="mapSelect.out('scm');">
+<area class="tChip" shape="poly" coords="235,69,457,69,457,2,234,2" href="/product/sncm-hadayaki01.shtml" alt="SNCM鋼＜肌焼鋼＞在庫エリア" onmouseover="mapSelect.over('sncm-hadayaki');" onmouseout="mapSelect.out('sncm-hadayaki');">
+<area class="tChip" shape="poly" coords="236,140,316,140,316,72,236,72" href="/corporate/facilities_cutting-a.shtml" alt="切断Aライン（構造用鋼105マイルアップ）" onmouseover="mapSelect.over('cutting-a');" onmouseout="mapSelect.out('cutting-a');">
+<area class="tChip" shape="poly" coords="234,204,317,204,317,290,234,290" href="/corporate/facilities_cutting-a.shtml" alt="切断Aライン（構造用鋼105マイルアップ）" onmouseover="mapSelect.over('cutting-a');" onmouseout="mapSelect.out('cutting-a');">
+<area class="tChip" shape="poly" coords="320,72,457,72,458,139,320,139" href="/product/sncm-strong.shtml" alt="SNCM鋼＜強靭鋼＞在庫エリア" onmouseover="mapSelect.over('sncm-strong');" onmouseout="mapSelect.out('sncm-strong');">
+<area class="tChip" shape="poly" coords="459,139,545,139,545,2,458,2" href="/product/snc-marubou.shtml" alt="SNC鋼在庫エリア" onmouseover="mapSelect.over('snc');" onmouseout="mapSelect.out('snc');">
+<area class="tChip" shape="poly" coords="65,204,152,204,152,285,65,245" href="/corporate/facilities_cutting-c.shtml" alt="切断Cライン（ステンレス鋼及び構造用鋼小径）" onmouseover="mapSelect.over('cutting-c');" onmouseout="mapSelect.out('cutting-c');">
+<area class="tChip" shape="poly" coords="156,204,231,204,231,289,162,289,156,286" href="/corporate/facilities_cutting-b.shtml" alt="切断Bライン（構造用鋼100マイルダウン）" onmouseover="mapSelect.over('cutting-b');" onmouseout="mapSelect.out('cutting-b');">
+
+<area shape="rect" coords="155,65,231,140" href="/corporate/facilities_cutting-b.shtml" alt="切断Bライン（構造用鋼100マイルダウン）" onmouseover="mapSelect.over('cutting-b');" onmouseout="mapSelect.out('cutting-b');">
+
+<area class="tChip" shape="poly" coords="320,204,417,204,417,290,320,290" href="/product/snb-marubou.shtml" alt="SCM鋼在庫エリア" onmouseover="mapSelect.over('snb');" onmouseout="mapSelect.out('snb');">
+<area class="tChip" shape="poly" coords="428,192,478,192,478,260,428,259" href="/product/snb-marubou.shtml" alt="SCM鋼在庫エリア" onmouseover="mapSelect.over('snb');" onmouseout="mapSelect.out('snb');">
+</map>
+</p>
+
+<p class="pageTop"><span><a href="#TOP">ページトップへ戻る</a></span></p>
+<!-- /detailArea --></div>
+<!-- /MAIN --></div>
+<!--#include virtual="/corporate/ssi/mod_side.ssi" -->
+<!-- /BODY --></div>
+<!--#include virtual="/common/ssi/mod_footer.ssi" -->
+<!-- /TOP --></div>
+</body>
+</html>
