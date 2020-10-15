@@ -35,6 +35,7 @@ $(".inline").colorbox({inline:true, contentWidth:"880px", fitContentsHeight:"fal
 
 <div class="listSec">
 <ul>
+<li><dl><dt>2020.07.31</dt><dd><a href="/pdf/magazine12.pdf" target="_blank">ときどき通信Vol.12を公開しました。<br><a href="/magazine.shtml">【ときどき通信のバックナンバーはこちら】</a></dd></dl></li></a>
 <li><dl><dt>2020.07.31</dt><dd><a href="/pdf/magazine11.pdf" target="_blank">ときどき通信Vol.11を公開しました。<br><a href="/magazine.shtml">【ときどき通信のバックナンバーはこちら】</a></dd></dl></li></a>
 <li><dl><dt>2020.06.05</dt><dd><a href="/pdf/magazine10.pdf" target="_blank">ときどき通信Vol.10を公開しました。<br><a href="/magazine.shtml">【ときどき通信のバックナンバーはこちら】</a></dd></dl></li></a>
 <li><dl><dt>2020.04.17</dt><dd><a href="/pdf/magazine09.pdf" target="_blank">ときどき通信Vol.9を公開しました。<br><a href="/magazine.shtml">【ときどき通信のバックナンバーはこちら】</a></dd></dl></li></a>

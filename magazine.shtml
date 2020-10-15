@@ -32,6 +32,7 @@ $(".inline").colorbox({inline:true, contentWidth:"880px", fitContentsHeight:"fal
 <!-- /titleSec --></div>
 <div class="listSec">
 <ul>
+<li><dl><dt>2020.10.15</dt><dd><a href="/pdf/magazine12.pdf" target="_blank">ときどき通信Vol.12</a></dd></dl></li>
 <li><dl><dt>2020.07.31</dt><dd><a href="/pdf/magazine11.pdf" target="_blank">ときどき通信Vol.11</a></dd></dl></li>
 <li><dl><dt>2020.06.05</dt><dd><a href="/pdf/magazine10.pdf" target="_blank">ときどき通信Vol.10</a></dd></dl></li>
 <li><dl><dt>2020.04.17</dt><dd><a href="/pdf/magazine09.pdf" target="_blank">ときどき通信Vol.9</a></dd></dl></li>
