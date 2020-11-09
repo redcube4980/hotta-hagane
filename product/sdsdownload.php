@@ -13,6 +13,9 @@ case $varGET['dl'] === 'nonpb':
 case $varGET['dl'] === 'stainless':
 	$product = 'ステンレス鋼材';
 	break;
+case $varGET['dl'] === 'nonpb-stainless':
+	$product = 'ステンレス鋼材（Pb添加除く）';
+	break;
 default:
 	//請求された資料が不正な場合、sds.shtmlへリダイレクト(302)
 	header("Location: sds.shtml");

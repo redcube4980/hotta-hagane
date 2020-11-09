@@ -30,6 +30,9 @@ case $varPOST['dl'] === 'nonpb':
 case $varPOST['dl'] === 'stainless':
 	$fname = '/pdf/stainless.pdf';
 	break;
+case $varPOST['dl'] === 'nonpb-stainless':
+	$fname = '/pdf/nonpb-stainless.pdf';
+	break;
 default:
 	$fname = '';
 	$ret['result'] = false;

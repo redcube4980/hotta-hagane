@@ -37,8 +37,8 @@
 	<h3 class="subtitleSds">ステンレス鋼材</h3>
 	<ul class="selectSds clearfix">
 		<li><a href="sdsdownload.php?dl=stainless">▶ ステンレス鋼材</a></li>
+		<li><a href="sdsdownload.php?dl=nonpb-stainless">▶ ステンレス鋼材（Pb添加除く）</a></li>
 	</ul>
-	
 	<div class="followingSec">
 	</div><!-- /followingSec -->
 	
