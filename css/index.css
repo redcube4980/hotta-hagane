@@ -71,13 +71,35 @@ div.topage #HEADER .titleArea p.charactor {
 
 
 /* topicsSec */
-#BODY .detailArea .topicsSec{float:right;width:445px;height:394px;overflow-y: scroll;overflow-x: hidden;}
+#BODY .detailArea .topicsSec {
+    float: right;
+    width: 445px;
+    height: 480px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
 #BODY .detailArea .topicsSec h2{margin-top:4px;}
 #BODY .detailArea .topicsSec ul{padding-right:10px;}
-#BODY .detailArea .topicsSec ul li{position:relative;margin-top:5px;}
 #BODY .detailArea .topicsSec ul li.first{margin-top:10px;}
-#BODY .detailArea .topicsSec ul li dl dt{position:absolute;width:6.5em;left:0;top:0;font-weight:bold;}
+#BODY .detailArea .topicsSec ul li dl dt{position:absolute;width:6.5em;left:0;top:0;font-weight:normal;}
 #BODY .detailArea .topicsSec ul li dl dd{margin:0 0 0 7em;}
+#BODY .detailArea .topicsSec .post-time {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-right: 10px;
+}
+#BODY .detailArea .topicsSec .post-title{
+    font-size: 14px;
+    line-height: 1.6;
+}
+#BODY .detailArea .topicsSec ul li {
+    position: relative;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 5px 0 10px;
+}
 
 
 /* bannerSec */
@@ -85,5 +107,27 @@ div.topage #HEADER .titleArea p.charactor {
 	float:left;
 	margin-top: 10px;
 	width:485px;
-	background: #505050;
+}
+#BODY .detailArea .bannerSec ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+#BODY .detailArea .bannerSec ul li {
+    position: relative;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 10px 0 0;
+    width: 50%;
+}
+#BODY .detailArea .bannerSec .post-time {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-right: 10px;
+}
+#BODY .detailArea .bannerSec .post-title {
+    font-size: 14px;
+    line-height: 1.6;
 }

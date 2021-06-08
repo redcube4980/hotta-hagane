@@ -43,9 +43,8 @@ default:
 <!-- jQwizard改 jQuery本体が「mod_header.ssi」で読み込まれる為、ここに定義する必要性有 -->
 <script type="text/javascript" src="../js/wizard/jquery.wizard.js"></script>
 <link rel="stylesheet" type="text/css" href="../js/wizard/wizard.css">
-<!-- zipCloud -->
-<link rel="stylesheet" type="text/css" href="../js/zipcloud/jquery.zipcloud.css">
-<script type="text/javascript" src="../js/zipcloud/jquery.zipcloud.js"></script>
+<!-- 郵便番号→住所 -->
+<script src="https://zipaddr.github.io/zipaddra.js" charset="UTF-8"></script>
 <script language="javascript">
 <!--//
 $(function(){
@@ -85,8 +84,8 @@ $(function(){
 				$('#dsp_mail').html( $('#inp_mail').val() );
 				$('#dsp_company').html( $('#inp_company').val() );
 				$('#dsp_branch').html( $('#inp_branch').val() );
-				$('#dsp_zip').html( $('#inp_zip').val() );
-				$('#dsp_address').html( $('#inp_address').val()) ;
+				$('#dsp_zip').html( $('#inp_zip1').val() + '-' + $('#inp_zip2').val() );
+				$('#dsp_address').html( $('#address').val()) ;
 				break;
 			case 1:
 				ret = download_chk("confirm");
@@ -110,7 +109,7 @@ $(function(){
 		$('#inp_company').val('');
 		$('#inp_branch').val('');
 		$('#inp_zip').val('');
-		$('#inp_address').val('');
+		$('#address').val('');
 		$('#err_name').html('');
 		$('#err_mail').html('');
 		$('#err_company').html('');
@@ -136,14 +135,6 @@ $(function(){
 	$('#cont_btn_exit').css('display', 'none');
 	$('#btn_download').css('display', 'none');
 	
-	$("#btn_zip").zipcloud({
-		zip:'#inp_zip',
-		addtype:'1',
-		add1:"#inp_address",
-		type:'hover',
-		disp:'#inp_zip'
-	});
-
 });
 function download_chk(proc){
 	var result;
@@ -164,7 +155,7 @@ function download_chk(proc){
 				$('#inp_company').val( msg.inp_company );
 				$('#inp_branch').val( msg.inp_branch );
 				$('#inp_zip').val( msg.inp_zip );
-				$('#inp_address').val( msg.inp_address );
+				$('#address').val( msg.inp_address );
 				ret = true;
 			} else {
 				$('#err_name').html( msg.name );
@@ -239,8 +230,10 @@ function download_chk(proc){
 						<tr>
 							<td>会社住所</td>
 							<td>
-								〒<input type="text" name="inp_zip" id="inp_zip" /><button type="button" id="btn_zip">自動入力</button><span class="text_warning">&nbsp;＊半角数字、ハイフン「-」は入力しないで下さい</span><br>
-								<input type="text" name="inp_address" id="inp_address" />
+								〒<input type="text" name="inp_zip1" id="zipcode1" class="inp_zip" />-<input type="text" name="inp_zip2" id="zipcode2" class="inp_zip" />
+								<input type="text" name="inp_zip" id="inp_zip" style="display:none;" />
+								<!--<button type="button" id="btn_zip">自動入力</button><span class="text_warning">&nbsp;＊半角数字、ハイフン「-」は入力しないで下さい</span>--><br>
+								<input type="text" name="inp_address" id="address" />
 							</td>
 						</tr>
 					</table>

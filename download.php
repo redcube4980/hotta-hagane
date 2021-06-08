@@ -1,7 +1,7 @@
 <?
-
 //設定項目
 //メールの雛形を指定
+//$uri = get_theme_file_uri();
 $customerMail = getcwd() . '/product/mail/customer.txt';
 $companyMail = getcwd() . '/product/mail/company.txt';
 
@@ -35,10 +35,10 @@ if( mb_ereg_replace('[0-9a-zA-Z]', '', $_GET['hash']) == '' ){
 $limdateSerial = $dateSerial - $limSecond;
 
 //データベース接続
-$dbUser = "mw2pg2bmww"; $dbInstance = "hottah"; $dbPass = "@CPwk5539"; $charset = "utf-8"; $host = "localhost";
+$dbUser = "mw2pg2bmww"; $dbInstance = "hottah"; $dbPass = "Yahotta104+"; $charset = "utf-8"; $host = "localhost";
 $dsn = 'mysql:dbname='.$dbInstance.';host='.$host.';';
 //$dsn = 'mysql:dbname='.$dbUser.';host='.$host.';charset='.$charset.";"; //PHP5.3.6以降の文字コード指定付
-$options = array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET CHARACTER SET 'utf8'"); //PHP5.3.6未満の文字コード指定
+//$options = array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET CHARACTER SET 'utf8'"); //PHP5.3.6未満の文字コード指定
 try{
 	$pdo = new PDO($dsn, $dbUser, $dbPass, $options);
 } catch (PDOException $err) {

@@ -20,7 +20,8 @@ foreach( $varPOST as $wkKey => $wkVar ){
 }
 
 //ダウンロードするファイルのチェック
-switch( true ){ //case判定は「true」と「===」により厳密な判定を使用
+switch( true ){
+//case判定は「true」と「===」により厳密な判定を使用
 case $varPOST['dl'] === 'pb':
 	$fname = '/pdf/pb.pdf';
 	break;
@@ -73,10 +74,10 @@ if( $varGET['mode'] === 'check' || $ret['result'] === false ){
 	exit(0); //checkの場合もしくは入力エラーの場合、終了
 } else if( $varGET['mode'] === 'confirm' ){
 	//データベース接続
-	$dbUser = "mw2pg2bmww"; $dbInstance = "hottah"; $dbPass = "@CPwk5539"; $charset = "utf-8"; $host = "localhost";
+	$dbUser = "mw2pg2bmww"; $dbInstance = "hottah"; $dbPass = "Yahotta104+"; $charset = "utf-8"; $host = "localhost";
 	$dsn = 'mysql:dbname='.$dbInstance.';host='.$host.';';
 	//$dsn = 'mysql:dbname='.$dbUser.';host='.$host.';charset='.$charset.";"; //PHP5.3.6以降の文字コード指定付
-	$options = array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET CHARACTER SET 'utf8'"); //PHP5.3.6未満の文字コード指定
+	//$options = array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET CHARACTER SET 'utf8'"); //PHP5.3.6未満の文字コード指定
 	try{
 		$pdo = new PDO($dsn, $dbUser, $dbPass, $options);
 	} catch (PDOException $err) {
